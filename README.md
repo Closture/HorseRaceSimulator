@@ -12,7 +12,7 @@ The Horse Racing Simulator is a Java-based program designed to simulate horse ra
 - **Encapsulation**: Ensures data integrity and confidentiality by encapsulating fields and providing accessor and mutator methods.
 
 ### Part 2
-- **Graphical User Interface (GUI)**: Allows users to interact with the simulation through a user-friendly graphical interface.
+- **Graphical User Interface (GUI)**: Allows users to interact with the simulation through a  user-friendly graphical interface.
 - **Enhanced Visuals**: Provides visual feedback on the race progress and outcome through intuitive graphics.
 
 ## Usage
